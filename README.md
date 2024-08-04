@@ -1,2 +1,2 @@
 # SEAS
-Our code will be released soon!
+Our code and data will be released soon!
