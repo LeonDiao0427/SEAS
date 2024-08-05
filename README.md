@@ -1,5 +1,5 @@
 
-## SEAS: Self-Evolving Adversarial Safety</h2>
+## SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models</h2>
 
 <p>
 📃 <a href="https://arxiv.org/">ArXiv Paper</a>
