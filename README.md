@@ -16,5 +16,13 @@ As large language models (LLMs) continue to advance in capability and influence,
 ## Citation
 Please kindly cite our paper if it helps your research:
 ```bibtex
-
+@misc{diao2024seasselfevolvingadversarialsafety,
+      title={SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models}, 
+      author={Muxi Diao and Rumei Li and Shiyang Liu and Guogang Liao and Jingang Wang and Xunliang Cai and Weiran Xu},
+      year={2024},
+      eprint={2408.02632},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2408.02632}, 
+}
 ```
