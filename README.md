@@ -2,7 +2,7 @@
 ## SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models</h2>
 
 <p>
-📃 <a href="[https://arxiv.org/](https://arxiv.org/abs/2408.02632)">ArXiv Paper</a>
+📃 <a href="https://arxiv.org/abs/2408.02632">ArXiv Paper</a>
   •
 📚 <a href="">Dataset</a>
 </p>
