@@ -1,4 +1,4 @@
-# <img src="image/seas-logo.png" alt="Your Logo" width="35"> SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models
+# <img src="image/seas-logo-c.png" alt="Your Logo" width="35"> SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models
 
 🌐 [Website](https://seas-llm.github.io/) · 🤖 [SEAS-Dataset](https://huggingface.co/datasets/diaomuxi/SEAS) · 📄 [Arxiv](https://arxiv.org/abs/2408.02632)
 
