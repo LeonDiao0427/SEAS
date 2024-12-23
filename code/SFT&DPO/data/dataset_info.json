@@ -1,0 +1,18 @@
+{
+  "SEAS_dpo_atk": {
+    "file_name": "data.json",
+    "columns": {
+      "prompt": "prompt",
+      "response": "response"
+    },
+    "ranking": true
+  },
+  "SEAS_dpo_tgt": {
+    "file_name": "data.json",
+    "columns": {
+      "prompt": "prompt",
+      "response": "response"
+    },
+    "ranking": true
+  }
+}
