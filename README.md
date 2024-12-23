@@ -6,7 +6,7 @@ We introduce the Self-Evolving Adversarial Safety (SEAS) optimization framework,
 
 We are excited to introduce the SEAS-Dataset, which includes both the **SEAS-Test** (2K) and **SEAS-Train** (16K) datasets.
 
-**We only display a portion of the data here. For more data, please refer to [SEAS-Dataset](https://huggingface.co/datasets/diaomuxi/SEAS).**
+***We only display a portion of the data here. For more data, please refer to [SEAS-Dataset](https://huggingface.co/datasets/diaomuxi/SEAS).***
 ---
 
 ## Introduction
