@@ -27,7 +27,6 @@ The SEAS dataset integrates two critical dimensions: **Risk Categories** and **A
 ## Disclaimer: 
 The SEAS dataset and its family contain content that may be offensive or upsetting. Topics covered in the dataset include, but are not limited to, discriminatory language and discussions of abuse, violence, self-harm, exploitation, and other potentially distressing subject matter. Please engage with the dataset responsibly and in accordance with your own personal risk tolerance. The dataset is intended for research purposes, specifically for research aimed at creating safer and less harmful AI systems. The views and opinions expressed in the dataset do not represent the views of the BUPT-PRIS Team or any of its members. It is important to emphasize that the dataset should not be used for training dialogue agents, as doing so may likely result in harmful model behavior. The primary objective of this dataset is to facilitate research that could minimize or prevent the harm caused by AI systems.
 
-Our code is primarily adapted from [vLLM](https://docs.vllm.ai/en/latest/) and [Llama Factory](https://github.com/hiyouga/LLaMA-Factory) with modifications to suit our requirements.
 ---
 
 ## 🎖 Citation 
@@ -46,3 +45,7 @@ Please star our github repo and cite our work if you find the repository helpful
 ## License
 
 SEAS dataset and its family are released under the CC BY-NC 4.0 License.
+
+---
+
+Our code is primarily adapted from [vLLM](https://docs.vllm.ai/en/latest/) and [Llama Factory](https://github.com/hiyouga/LLaMA-Factory) with modifications to suit our requirements.
